@@ -15,7 +15,7 @@ ex. Windows 10, Mac, or Linux
   *  Do this once the file is extracted, and loaded up on your IDE
 
 ### Help
-#### Just contact me at ulthar5077@gmail.com
+⋅⋅⋅Just contact me at ulthar5077@gmail.com
 
 ### Authors
 #### Contributors names and contact info
