@@ -6,7 +6,7 @@
 ex. Windows 10, Mac, or Linux
 
 ### Installing
-#### Just download the .Zip file provided
+  *  Just download the .Zip file provided
 #### IDE(Any) pref. netbeans
 #### modifications needed to be made to files/folders
 
