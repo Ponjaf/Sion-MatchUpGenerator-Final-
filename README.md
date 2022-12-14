@@ -2,7 +2,7 @@
 
 ## Getting Started
 ### Dependencies
-#### Any OS is fine, and Any IDE should work however, this project was made on NetBeans, needed before installing program.
+#### Any OS is fine, and Any IDE should work however, this project was made on NetBeans. So, your safest bet is NetBeans
 ex. Windows 10, Mac, or Linux
 
 ### Installing
