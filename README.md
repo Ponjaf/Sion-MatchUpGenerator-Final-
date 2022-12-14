@@ -3,7 +3,7 @@
 ## About this GUI
 #### The purpose of the GUI is help League of Legend players who aren't comfortable with doing there own Runes and Builds on Sion
 #### In addtion to this it can help teach them how to play specific match ups against difficult character, as well helping saving time to allow for brainstorming for
-#### in-game strategies 
+#### ingame strategies 
 
 ## Getting Started
 ### Dependencies
