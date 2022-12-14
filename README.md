@@ -1,23 +1,21 @@
-# CalulationGame
-Calculation Gamein C++
+# Sion MatchUp Generator
+
 ## Getting Started
 ### Dependencies
-#### Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+#### Any OS is fine, and Any IDE should work however, this project was made on NetBeans, needed before installing program.
 ex. Windows 10, Mac, or Linux
 
 ### Installing
-#### How/where to download your program
-#### IDE(Replit, VisualStudio)
-#### Any modifications needed to be made to files/folders
+#### Just download the .Zip file provided
+#### IDE(Any) pref. netbeans
+#### modifications needed to be made to files/folders
 
 ### Executing program
-#### How to run the program
-#### Step-by-step bullets
-#### code blocks for commands
+#### Just run the MatchUpGui.java file
+#### Do this once the file is extracted, and loaded up on your IDE
 
 ### Help
-#### Any advise for common problems or issues.
-#### command to run if program contains helper info
+#### Just contact me at ulthar5077@gmail.com
 
 ### Authors
 #### Contributors names and contact info
@@ -26,12 +24,10 @@ ex. Windows 10, Mac, or Linux
 
 
 ## Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
+1.0
 
-## Initial Release
+## Initial Release Notes
+### Changes will be coming, So keep up to date
 
 ## License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Eduardo Rose License - see the LICENSE.md file for details
