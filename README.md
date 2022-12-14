@@ -6,7 +6,7 @@
 ## Getting Started
 ### Dependencies
 #### Any OS is fine, and Any IDE should work however, this project was made on NetBeans. So, your safest bet is NetBeans
-ex. Windows 10, Mac, or Linux
+ex. Windows 10, Mac, or Linux are good
 
 ### Installing
   *  Just download the .Zip file provided
