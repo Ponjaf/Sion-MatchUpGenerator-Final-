@@ -7,12 +7,12 @@ ex. Windows 10, Mac, or Linux
 
 ### Installing
   *  Just download the .Zip file provided
-#### IDE(Any) pref. netbeans
-#### modifications needed to be made to files/folders
+  *  IDE(Any) pref. netbeans
+  *  modifications needed to be made to files/folders
 
 ### Executing program
-#### Just run the MatchUpGui.java file
-#### Do this once the file is extracted, and loaded up on your IDE
+  *  Just run the MatchUpGui.java file
+  *  Do this once the file is extracted, and loaded up on your IDE
 
 ### Help
 #### Just contact me at ulthar5077@gmail.com
