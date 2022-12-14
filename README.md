@@ -28,6 +28,3 @@ ex. Windows 10, Mac, or Linux
 
 ## Initial Release Notes
 ### Changes will be coming, So keep up to date
-
-## License
-This project is licensed under the Eduardo Rose License - see the LICENSE.md file for details
