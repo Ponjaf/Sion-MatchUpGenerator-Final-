@@ -1,5 +1,8 @@
 # Sion MatchUp Generator
 
+## About this GUI
+
+
 ## Getting Started
 ### Dependencies
 #### Any OS is fine, and Any IDE should work however, this project was made on NetBeans. So, your safest bet is NetBeans
